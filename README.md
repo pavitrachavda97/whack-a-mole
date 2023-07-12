@@ -7,3 +7,6 @@ Welcome to the Whack-a-Mole game! This is a simple and entertaining game where y
 - Position your cursor over a mole to prepare for a hit.
 - When a mole pops up, click or tap on it swiftly to score a hit. The mole will disappear, and you will earn points.
 - Aim to achieve the highest score possible by hitting as many moles as you can before the game ends.
+
+## Screenshot
+![image](https://github.com/pavitrachavda97/whack-a-mole/assets/91004608/14560c7f-6d30-4a0d-8b68-fe5bbcce260a)
